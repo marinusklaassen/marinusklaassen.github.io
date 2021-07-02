@@ -26,6 +26,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: jamklaassen
 github_username: marinusklaassen
+linkedin_username: marinus-klaassen
+facebook_username: marinus-klaassen
+author: "Marinus Klaassen-Verhagen"
+
+# New fields other than 
+copyright: "Marinus Klaassen-Verhagen"
+
+# 50px TODO make a logo title
+title-logo: /images/title-logo.png
+
 
 # Build settings
 theme: minima
