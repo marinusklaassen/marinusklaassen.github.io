@@ -1,8 +1,16 @@
 ---
-layout: post
 title:  "Network sniffing using Wireshark!"
 date:   2021-07-02 09:59:59 +0200
 categories: jekyll update
+toc: true
+header:
+  overlay_image: /assets/images/nicesynth2.PNG
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+  teaser: /assets/images/nicesynth2.PNG
 ---
 
 Hoi dit is mijn blog test post! 

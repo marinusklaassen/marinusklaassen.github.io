@@ -1,14 +1,14 @@
 ---
-title:  "Test"
-date:   2021-07-02
-categories: 
-    - jekyll update
-    - blog
-tags: 
-    - tryout
-    - blog
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+permalink: /
+title: "Marinus Jojo Title!"
+
+layout: home
 excerpt: "This post should [...]"
-toc: true
+classes: 
+    - landing
 header:
   overlay_image: /assets/images/nicesynth2.PNG
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -16,15 +16,5 @@ header:
   actions:
     - label: "More Info"
       url: "https://unsplash.com"
-  teaser: /assets/images/nicesynth2.PNG
-    
 
 ---
-
-# Welcome to my  first post! 
-
-## Here are things I will be writing about
-
-1. This.
-2. That.
-3. The other
